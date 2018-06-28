@@ -74,12 +74,43 @@ li {
 
 #box1 {
 	width: 1224px;
-    height: 400px;
+    height: 500px;
     float: left;
     padding-left: 10px;
     padding-right: 10px;
     border: medium solid white;
-	background-color: orange;
-	font-size: 25px;
+	background-color:#4D9887 ;
+	font-size: 30px;
+
+}
+
+.button {
+    background-color: #969696;
+    border: none;
+    color: white;
+    padding: 15px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: white;
+    color: black;
+	text-decoration: none;
+}
+
+#box2 {
+	width: 1224px;
+    height: 800px;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: medium solid white;
+	background-color:#4D9887 ;
+	font-size: 30px;
 
 }
